@@ -20,7 +20,7 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
 - 📡 [Support and Community](#support-and-community)
      - 💊 [Develop and Contribute](#develop-and-contribute)
      - 📆 [Learn and Connect](#learn-and-connect)
-- [Cloud Native Security with ThreatMapper](#ThreatMapper-workshop)     
+- [Cloud Native Security with ThreatMapper](#Cloud-Native-Security-with-ThreatMapper)     
 
 
 ## official-projects
@@ -63,11 +63,29 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
      
    
 ## Community Repositories
-  - ### Contribute-Collabrate
-  - ### Deepfence's Outreach Program 
+  - ### Contribute-Collabrate 
+    write blogpost , speak at meetups and events and win Deepfence swag reach out to us [@deepfence](https://twitter.com/deepfence) 
+  - ### [Deepfence's Outreach Program](./mentership)
+  
+## Webinar 
+  - [Thraetmapper 1.3 Demo](https://go.deepfence.io/video-threatmapper-1-3-demo)
+  - [Log4j2 Vulnerability with Deepfence](https://go.deepfence.io/log4j2-vulnerability-detection-protection)
+  - [Equifax then , Log4j Now - reveal and seal off attack paths with deepfence](https://go.deepfence.io/video-log4j-reveal-and-seal-off-attack-paths)
+  - [How to Install Threatmapper in Kubenetes](https://go.deepfence.io/en-us/how-to-install-threatmapper-in-kubernetes-video)
+  - [Open Source Cloud Native Security with ThreatMapper](https://go.deepfence.io/open-source-cloud-native-security-with-threatmapper)
+  - [Shift Left Security at Operations? How Do we make That work? ](https://go.deepfence.io/en-us/shift-left-security-at-operations-how-to-video)
+  - [90 Sec intro to Threatmapper: How to find your most critical vulnerabilities](https://go.deepfence.io/threatmapper-how-to-find-your-most-critical-vulnerabilities)
+  - [Whats new in Thraetmapper 1.2](https://go.deepfence.io/video-whats-new-threatmapper-1-2)
+  - [Stop the Heist: How to D3FEND against ATT&CKS and Save the day](https://go.deepfence.io/stop-the-heist-webinar-on-demand)
+  - [Runtime security Observability for AWS Fargete](https://go.deepfence.io/runtime-security-observability-for-aws-fargate-webinar-on-demand)
+  - [Hardening Your CI/CD Pipleines with Gitops and Continous Security](https://youtu.be/8tRLtTFJyV4)
+  
+## Slides 
+
+ - [Stop the Heist How to D3FEND against ATT& CKS and Save the Day](https://deepfence.io/wp-content/uploads/2021/10/Deepfence-Stop-the-Heist-and-Save-the-Day-Slides-web.pdf)
 
 ## videos
-  - ### deepfence office hours 
+  - ### [Deepfence office hours ](./office-hours)
 
 ## podcasts
   - [Deepfence on the kubernetes podcast by google ](https://deepfence.io/google-kubernetes-podcast/)<br>
@@ -75,12 +93,19 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
   
 ## Interactive Learning
 
+ - [Killerkoda Deepfence Playground]()
+
 ## IDE and Editor Integrations
+  - Kubenetes IDE Lens 
+  - Vscode Extension 
 
 ## Support and Community
   - ### develop-and-contribute
-  - ### learn-and-connect
+  - ### [learn-and-connect](https://deepfence-community.slack.com/join/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ#/shared-invite/email)
 
 ## Cloud Native Security with ThreatMapper
-  - ### ThreatMapper-workshop
+  - ### [Cloud native Security Workshop](https://go.deepfence.io/on-demand-cloud-native-security-workshop)
+  
+follow us on [twitter](https://twitter.com/deepfence),[Linkedin](https://www.linkedin.com/company/deepfence-inc/)& [Youtube](https://www.youtube.com/channel/UCklvbuOjnzpmtXy-g97tfWQ) for more update 
+Thanks for supporting us ! 😊  
   
