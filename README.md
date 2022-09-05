@@ -37,7 +37,8 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
      - [Introduction to yarahunter ](https://community.deepfence.io/docs/yarahunter)<br>
      - [Introduction to packetstreamer](https://community.deepfence.io/docs/packetstreamer)<br>
      - [Introdcution to flowmeter](https://community.deepfence.io/docs/flowmeter)<br>
-  -  ### blogs-and-articles
+     
+ -  ### blogs and articles
      
      - [Threatmapper Integrates Steampipe To Enhance Security Observability/](https://deepfence.io/threatmapper-integrates-steampipe-to-enhance-security-observability/)<br>
      - [Introducing the Shared Security Model For Cloud Native](https://deepfence.io/introducing-shared-security-model-for-cloud-native/)<br>
