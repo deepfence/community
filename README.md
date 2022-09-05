@@ -52,12 +52,12 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
      - [CVE 2021 44228: Log4j2 Exploritablity & Attack Patha mitigatuin with Threatmapper](https://deepfence.io/cve-2021-44228-log4j2-exploitability-and-attack-path-mitigation-with-threatmapper/)<br>
      - [Threatmapper picks up where shift left ends](https://deepfence.io/threatmapper-picks-up-where-shift-left-ends/)<br>
      - [Detecting Secrets To Reduce Attack Surface](https://deepfence.io/detecting-secrets-to-reduce-attack-surface/)<br>
-     -[Runtime Threat Mapping For AWS- Fargate Serverless Deployments Using Deepfence/](https://deepfence.io/runtime-threat-mapping-for-aws-fargate-serverless-deployments-using-deepfence/)  <br>
-     -[Observability And Security Of AWS Fargate Serverless Deployments](https://deepfence.io/observability-and-security-of-aws-fargate-serverless-deployments/)<br>
-     -[Use Case Runtime Threat Mapping for Bottlerocket Containers Using Deepfence Threatmapper/](https://deepfence.io/use-case-runtime-threat-mapping-for-bottlerocket-containers-using-deepfence-threatmapper/)<br>
+     - [Runtime Threat Mapping For AWS- Fargate Serverless Deployments Using Deepfence/](https://deepfence.io/runtime-threat-mapping-for-aws-fargate-serverless-deployments-using-deepfence/)  <br>
+     - [Observability And Security Of AWS Fargate Serverless Deployments](https://deepfence.io/observability-and-security-of-aws-fargate-serverless-deployments/)<br>
+     - [Use Case Runtime Threat Mapping for Bottlerocket Containers Using Deepfence Threatmapper/](https://deepfence.io/use-case-runtime-threat-mapping-for-bottlerocket-containers-using-deepfence-threatmapper/)<br>
      - [Automating threat Mapping for Multicloud Enviroments](https://deepfence.io/automating-threat-mapping-for-multicloud-environments/)<br>
      - [Threat Mapping for Windows Containers ](https://deepfence.io/threat-mapping-for-windows-containers/)<br>
-     -[Use Case - Runtime Threat Mapping for GKE using Deepfence Threatmapper](https://deepfence.io/use-case-runtime-threat-mapping-for-gke-using-deepfence-threatmapper/)<br>
+     - [Use Case - Runtime Threat Mapping for GKE using Deepfence Threatmapper](https://deepfence.io/use-case-runtime-threat-mapping-for-gke-using-deepfence-threatmapper/)<br>
      - [Use Case - Runtime Threat Mapping for AKS using Deepfence Threatmapper](https://deepfence.io/use-case-runtime-threat-mapping-for-aks-using-deepfence-threatmapper/)<br>
      - [Use Case - Runtime Threatmapping for Amazon ECS Using Deepfence Threatmapper](https://deepfence.io/blog-runtime-threat-mapping-for-amazon-ecs-using-deepfence-threatmapper/)<br>
      
