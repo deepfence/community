@@ -64,7 +64,7 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
    
 ## Community Repositories
   - ### Contribute-Collabrate 
-    write blogpost , speak at meetups and events and win Deepfence swag reach out to us [@deepfence](https://twitter.com/deepfence) 
+    write blogpost , speak at meetups and events around deepfence projcets and win Deepfence swag reach out to us [@deepfence](https://twitter.com/deepfence) 
   - ### [Deepfence's Outreach Program](./mentership)
   
 ## Webinar 
