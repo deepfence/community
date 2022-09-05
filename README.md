@@ -70,8 +70,8 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
   - ### deepfence office hours 
 
 ## podcasts
-  -[Deepfence on the kubernetes podcast by google ](https://deepfence.io/google-kubernetes-podcast/)<br>
-  -[Deepfence's Sandeep Lahane Featured On the Cloud Native Startup Podcast with Emily Omier](https://deepfence.io/cloud-native-startup-podcast/)<br>
+  - [Deepfence on the kubernetes podcast by google ](https://deepfence.io/google-kubernetes-podcast/)<br>
+  - [Deepfence's Sandeep Lahane Featured On the Cloud Native Startup Podcast with Emily Omier](https://deepfence.io/cloud-native-startup-podcast/)<br>
   
 ## Interactive Learning
 
