@@ -86,7 +86,7 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
  - [Stop the Heist How to D3FEND against ATT& CKS and Save the Day](https://deepfence.io/wp-content/uploads/2021/10/Deepfence-Stop-the-Heist-and-Save-the-Day-Slides-web.pdf)
 
 ## videos
-  - ### [Deepfence office hours ](./office-hours)
+  - ### [Deepfence office hours ](./office-hours/readme.md)
 
 ## podcasts
   - [Deepfence on the kubernetes podcast by google ](https://deepfence.io/google-kubernetes-podcast/)<br>
