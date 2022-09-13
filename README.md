@@ -87,6 +87,7 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
 
 ## videos
   - ### [Deepfence office hours ](./office-hours/readme.md)
+  - [Open Source Cloud Native Security with ThreatMapper - CNCF ](https://www.youtube.com/watch?v=S-sNUuLDhz0)
 
 ## podcasts
   - [Deepfence on the kubernetes podcast by google ](https://deepfence.io/google-kubernetes-podcast/)<br>
