@@ -4,12 +4,13 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
 
 ## Contents
 
-- 💼 [Official Projects](#official-projects)
-    - 📂 [Repositories](#repositories)
+- 💼 [Official Projects](#official-projects) <br>
+    - 📂 [Repositories](#repositories) <br>
     - 🗒️ [Docs](#docs)
     - 📰 [Blogs](#blogs-and-articles)
 - 🐾 [Community Repositories](#community-repositories)
-    - [Contribute Collabrate](#Contribute-Collabrate)
+    - [Speed up Developer SecurityExperience with Docker extensions](#Docker-extensions) <br>
+    - [Contribute Collabrate](#Contribute-Collabrate) <br>
 - 🗃️ [Blogs and Articles](#blogs-and-articles)
 - 📹 [Videos](#videos)
 - 📑 [Slides](#slides)
@@ -19,8 +20,8 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
 - 🧰 [IDE and Editor Integrations](#ide-and-editor-integrations)
 - 📡 [Support and Community](#support-and-community)
      - 💊 [Develop and Contribute](#develop-and-contribute)
-     - 📆 [Learn and Connect](#learn-and-connect)
-- [Cloud Native Security with ThreatMapper](#Cloud-Native-Security-with-ThreatMapper)     
+     - 📆 [Learn and Connect](#learn-and-connect)  <br>
+- [Cloud Native Security with ThreatMapper](#Cloud-Native-Security-with-ThreatMapper)      <br>
 
 
 ## official-projects
@@ -67,6 +68,9 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
   - ### Contribute-Collabrate 
     write blogpost , speak at meetups and events around deepfence projcets and win Deepfence swag reach out to us [@deepfence](https://twitter.com/deepfence) 
   - ### [Deepfence's Outreach Program](./mentership)
+  - ### Docker-extensions
+      - [Docker Extensions for Yarahunter](https://github.com/deepfence/secretscanner-docker-extension)
+      - [Docker Extensions for secretscanner](https://github.com/deepfence/yarahunter-docker-extension)
   
 ## Webinar 
   - [Thraetmapper 1.3 Demo](https://go.deepfence.io/video-threatmapper-1-3-demo)
