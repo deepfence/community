@@ -12,6 +12,7 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
     - [Speed up Developer SecurityExperience with Docker extensions](#Docker-extensions) <br>
     - [Contribute Collabrate](#Contribute-Collabrate) <br>
 - 🗃️ [Blogs and Articles](#blogs-and-articles)
+- 🐦 [tweets](#tweets)
 - 📹 [Videos](#videos)
 - 📑 [Slides](#slides)
 - 🎤 [Podcasts](#podcasts)
@@ -97,6 +98,17 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
 ## podcasts
   - [Deepfence on the kubernetes podcast by google ](https://deepfence.io/google-kubernetes-podcast/)<br>
   - [Deepfence's Sandeep Lahane Featured On the Cloud Native Startup Podcast with Emily Omier](https://deepfence.io/cloud-native-startup-podcast/)<br>
+
+## tweets 
+  - [secure the cloud](https://twitter.com/deepfence/status/1602341163775586311)
+  - [evaluating exploitability of risk ](https://twitter.com/deepfence/status/1601220803953012737?s=20&t=d5uGodV_NvW-oOmaa8ny4w)
+  - [Shared Security Model](https://twitter.com/deepfence/status/1600513785793368066)
+  - [eBPF technology and its use cases in security](https://twitter.com/deepfence/status/1599782798771990528)
+  - [Cloud Native Application Protection Platforms -CNAPP ](https://twitter.com/deepfence/status/1598705307626004480)
+  - [alert fatigue](https://twitter.com/deepfence/status/1597976314668933122)
+  - [Cyber Monday](https://twitter.com/deepfence/status/1597249408457809922)
+  - [Security Observability](https://twitter.com/deepfence/status/1594734704799776768)
+
   
 ## Interactive Learning
 
