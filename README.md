@@ -10,7 +10,7 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
     - 📰 [Blogs](#blogs-and-articles)
 - 🐾 [Community Repositories](#community-repositories)
     - [Speed up Developer SecurityExperience with Docker extensions](#Docker-extensions) <br>
-    - [Contribute Collabrate](#Contribute-Collabrate) <br>
+    - [Contribute Collaborate](#Contribute-Collabrate) <br>
 - 🗃️ [Blogs and Articles](#blogs-and-articles)
 - 🐦 [tweets](#tweets)
 - 📹 [Videos](#videos)
@@ -51,14 +51,14 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
      - [Introducing PacketStreamer : Distributed Packet Capture for Cloud Native Platforms](https://deepfence.io/introducing-packetstreamer/)<br>
      - [The Sisyphean task of Vulnerability Management ](https://deepfence.io/the-sisyphean-task-of-vulnerability-management/)<br>
      - [How To Detect And Defeat The Log4j2 Vulnerability With Deepfence](https://deepfence.io/how-to-detect-and-defeat-the-log4j2-vulnerability-with-deepfence/)<br>
-     - [Visualize Attack Paths in Production Enviroments with Thratmapper](https://deepfence.io/visualize-attack-paths-in-production-environments-with-threatmapper/)<br>
-     - [CVE 2021 44228: Log4j2 Exploritablity & Attack Patha mitigatuin with Threatmapper](https://deepfence.io/cve-2021-44228-log4j2-exploitability-and-attack-path-mitigation-with-threatmapper/)<br>
+     - [Visualize Attack Paths in Production Environments with Threatmapper](https://deepfence.io/visualize-attack-paths-in-production-environments-with-threatmapper/)<br>
+     - [CVE 2021 44228: Log4j2 Exploritablity & Attack Path mitigation with Threatmapper](https://deepfence.io/cve-2021-44228-log4j2-exploitability-and-attack-path-mitigation-with-threatmapper/)<br>
      - [Threatmapper picks up where shift left ends](https://deepfence.io/threatmapper-picks-up-where-shift-left-ends/)<br>
      - [Detecting Secrets To Reduce Attack Surface](https://deepfence.io/detecting-secrets-to-reduce-attack-surface/)<br>
      - [Runtime Threat Mapping For AWS- Fargate Serverless Deployments Using Deepfence/](https://deepfence.io/runtime-threat-mapping-for-aws-fargate-serverless-deployments-using-deepfence/)  <br>
      - [Observability And Security Of AWS Fargate Serverless Deployments](https://deepfence.io/observability-and-security-of-aws-fargate-serverless-deployments/)<br>
      - [Use Case Runtime Threat Mapping for Bottlerocket Containers Using Deepfence Threatmapper/](https://deepfence.io/use-case-runtime-threat-mapping-for-bottlerocket-containers-using-deepfence-threatmapper/)<br>
-     - [Automating threat Mapping for Multicloud Enviroments](https://deepfence.io/automating-threat-mapping-for-multicloud-environments/)<br>
+     - [Automating threat Mapping for Multicloud Environments](https://deepfence.io/automating-threat-mapping-for-multicloud-environments/)<br>
      - [Threat Mapping for Windows Containers ](https://deepfence.io/threat-mapping-for-windows-containers/)<br>
      - [Use Case - Runtime Threat Mapping for GKE using Deepfence Threatmapper](https://deepfence.io/use-case-runtime-threat-mapping-for-gke-using-deepfence-threatmapper/)<br>
      - [Use Case - Runtime Threat Mapping for AKS using Deepfence Threatmapper](https://deepfence.io/use-case-runtime-threat-mapping-for-aks-using-deepfence-threatmapper/)<br>
@@ -66,8 +66,8 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
      
    
 ## Community Repositories
-  - ### Contribute-Collabrate 
-    write blogpost , speak at meetups and events around deepfence projcets and win Deepfence swag reach out to us [@deepfence](https://twitter.com/deepfence) 
+  - ### Contribute-Collaborate 
+    write blog post, speak at meetups and events around deepfence projects and win Deepfence swag reach out to us [@deepfence](https://twitter.com/deepfence) 
   - ### [Deepfence's Outreach Program](./mentership)
   - ### Docker-extensions
       - [Docker Extensions for Yarahunter](https://github.com/deepfence/secretscanner-docker-extension)
@@ -76,15 +76,15 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
 ## Webinar 
   - [Threatmapper 1.3 Demo](https://go.deepfence.io/video-threatmapper-1-3-demo)
   - [Log4j2 Vulnerability with Deepfence](https://go.deepfence.io/log4j2-vulnerability-detection-protection)
-  - [Equifax then , Log4j Now - reveal and seal off attack paths with deepfence](https://go.deepfence.io/video-log4j-reveal-and-seal-off-attack-paths)
-  - [How to Install Threatmapper in Kubenetes](https://go.deepfence.io/en-us/how-to-install-threatmapper-in-kubernetes-video)
+  - [Equifax then, Log4j Now - reveal and seal off attack paths with Deepfence](https://go.deepfence.io/video-log4j-reveal-and-seal-off-attack-paths)
+  - [How to Install Threatmapper in Kubernetes](https://go.deepfence.io/en-us/how-to-install-threatmapper-in-kubernetes-video)
   - [Open Source Cloud Native Security with ThreatMapper](https://go.deepfence.io/open-source-cloud-native-security-with-threatmapper)
   - [Shift Left Security at Operations? How Do we make That work? ](https://go.deepfence.io/en-us/shift-left-security-at-operations-how-to-video)
   - [90 Sec intro to Threatmapper: How to find your most critical vulnerabilities](https://go.deepfence.io/threatmapper-how-to-find-your-most-critical-vulnerabilities)
-  - [Whats new in Threatmapper 1.2](https://go.deepfence.io/video-whats-new-threatmapper-1-2)
+  - [What's new in Threatmapper 1.2](https://go.deepfence.io/video-whats-new-threatmapper-1-2)
   - [Stop the Heist: How to D3FEND against ATT&CKS and Save the day](https://go.deepfence.io/stop-the-heist-webinar-on-demand)
   - [Runtime security Observability for AWS Fargete](https://go.deepfence.io/runtime-security-observability-for-aws-fargate-webinar-on-demand)
-  - [Hardening Your CI/CD Pipleines with Gitops and Continous Security](https://youtu.be/8tRLtTFJyV4)
+  - [Hardening Your CI/CD Pipleines with Gitops and Continuous Security](https://youtu.be/8tRLtTFJyV4)
   
 ## Slides 
 
@@ -115,8 +115,8 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
  - [Killerkoda Deepfence Playground]()
 
 ## IDE and Editor Integrations
-  - Kubenetes IDE Lens 
-  - Vscode Extension 
+  - Kubernetes IDE Lens 
+  - VScode Extension 
 
 ## Support and Community
   - ### develop-and-contribute
