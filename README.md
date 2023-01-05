@@ -74,14 +74,14 @@ A curated list of Deepfence's OSS related tools, frameworks and articles
       - [Docker Extensions for secretscanner](https://github.com/deepfence/yarahunter-docker-extension)
   
 ## Webinar 
-  - [Thraetmapper 1.3 Demo](https://go.deepfence.io/video-threatmapper-1-3-demo)
+  - [Threatmapper 1.3 Demo](https://go.deepfence.io/video-threatmapper-1-3-demo)
   - [Log4j2 Vulnerability with Deepfence](https://go.deepfence.io/log4j2-vulnerability-detection-protection)
   - [Equifax then , Log4j Now - reveal and seal off attack paths with deepfence](https://go.deepfence.io/video-log4j-reveal-and-seal-off-attack-paths)
   - [How to Install Threatmapper in Kubenetes](https://go.deepfence.io/en-us/how-to-install-threatmapper-in-kubernetes-video)
   - [Open Source Cloud Native Security with ThreatMapper](https://go.deepfence.io/open-source-cloud-native-security-with-threatmapper)
   - [Shift Left Security at Operations? How Do we make That work? ](https://go.deepfence.io/en-us/shift-left-security-at-operations-how-to-video)
   - [90 Sec intro to Threatmapper: How to find your most critical vulnerabilities](https://go.deepfence.io/threatmapper-how-to-find-your-most-critical-vulnerabilities)
-  - [Whats new in Thraetmapper 1.2](https://go.deepfence.io/video-whats-new-threatmapper-1-2)
+  - [Whats new in Threatmapper 1.2](https://go.deepfence.io/video-whats-new-threatmapper-1-2)
   - [Stop the Heist: How to D3FEND against ATT&CKS and Save the day](https://go.deepfence.io/stop-the-heist-webinar-on-demand)
   - [Runtime security Observability for AWS Fargete](https://go.deepfence.io/runtime-security-observability-for-aws-fargate-webinar-on-demand)
   - [Hardening Your CI/CD Pipleines with Gitops and Continous Security](https://youtu.be/8tRLtTFJyV4)
