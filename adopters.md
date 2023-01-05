@@ -1,4 +1,4 @@
-This is the list of organizations and users that publicly shared details of how they are using [ThreatMappoer](https://github.com/deepfence/ThreatMapper) , [Secretscanner](https://github.com/deepfence/SecretScanner) , [Packetstreamer](https://github.com/deepfence/PacketStreamer) & [YaraHunter](https://github.com/deepfence/YaraHunter) . Please send PRs to add or remove organizations/users.
+This is the list of organizations and users that publicly shared details of how they are using [ThreatMapper](https://github.com/deepfence/ThreatMapper) , [Secretscanner](https://github.com/deepfence/SecretScanner) , [Packetstreamer](https://github.com/deepfence/PacketStreamer) & [YaraHunter](https://github.com/deepfence/YaraHunter) . Please send PRs to add or remove organizations/users.
 
 Note: There are several other organizations/users that couldn’t publicly share their usage details, but are active in the [Deepfence Community](). 
 
